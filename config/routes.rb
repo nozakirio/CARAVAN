@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  # resourcesメソッドを利用すると、RESTfulなURLを自動で設定できる
   resources :blogs
 end

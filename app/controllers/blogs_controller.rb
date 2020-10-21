@@ -36,6 +36,7 @@ class BlogsController < ApplicationController
   private
 
   def blog_params
+    # Strong Parametersを使うと、フォームからのデータを受け取れるようにな
     params.require(:blog).permit(:title, :category, :body)
   end
 end
