@@ -1,24 +1,15 @@
-# README
+# CARAVAN
+## 概要
+dwcカリキュラム  アプリケーションを完成させよう  
+### ページ構成
+- topページ
+- 投稿詳細ページ
+- 投稿フォームページ
+- 編集フォームページ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 実装機能
+- ブログの投稿をできるようにする
+- ブログの閲覧をできるようにする（一覧・詳細）
+- 投稿したブログを編集できるようにする
+- 投稿したブログを削除できるようにする
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
